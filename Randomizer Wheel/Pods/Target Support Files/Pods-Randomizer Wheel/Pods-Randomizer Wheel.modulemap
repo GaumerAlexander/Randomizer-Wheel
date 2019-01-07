@@ -1,0 +1,6 @@
+framework module Pods_Randomizer_Wheel {
+  umbrella header "Pods-Randomizer Wheel-umbrella.h"
+
+  export *
+  module * { export * }
+}
